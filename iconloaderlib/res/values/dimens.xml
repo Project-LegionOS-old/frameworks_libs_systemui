@@ -16,4 +16,5 @@
 
 <resources>
     <dimen name="profile_badge_size">24dp</dimen>
+    <dimen name="theme_icon_size">24dp</dimen>
 </resources>
